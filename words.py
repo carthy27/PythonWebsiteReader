@@ -2,7 +2,8 @@ import sys
 from urllib.request import urlopen 
 
 def fetch_words(url):
-    """Fetch a list of words from a URL.
+    """
+    Fetch a list of words from a URL.
     
       Args:
          url: The URL of a UTF-8 text document.
