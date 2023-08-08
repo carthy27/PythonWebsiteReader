@@ -33,4 +33,4 @@ def main(url):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1]) 
+    main(sys.argv[1]) # The 0th argument is the filename
